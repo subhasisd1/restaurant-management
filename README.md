@@ -72,7 +72,7 @@ Route::post('/contact', [ContactController::class, 'submit'])->name('contact.sub
 •	Cash Payments ($875.25 CAD)
 •	Interactive Weekly Sales Chart
 7. GitHub Repository
-Repository Link:  https://github.com/vaish-1995/restaurant-management.git
+Repository Link:  https://github.com/subhasisd1/restaurant-management.git
 
 8. Project Structure
 restaurant_management/
