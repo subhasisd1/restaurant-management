@@ -93,6 +93,7 @@ restaurant_management/
 └── public/
     ├── css/
     └── js/
+   
 9. Next Steps
 •	Database integration
 •	User authentication system
